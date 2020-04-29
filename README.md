@@ -8,16 +8,27 @@ blog post: https://medium.com/
  # libraries used
  
 import pandas as pd
+
 import numpy as np
+
 import json
+
 from datetime import datetime
+
 from time import time
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import warnings
+
 warnings.filterwarnings("ignore")
+
 from sklearn.metrics import accuracy_score,f1_score
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.svm import SVC
 
 # Motivation
