@@ -33,7 +33,6 @@ from sklearn.svm import SVC
 
 # Motivation
 
-This project to complete udacity Data Scientist Nanodegree capstone project 
 I've chosen Starbucks data that mimics customer behavior on the Starbucks rewards mobile app, 
 and build a model to predict the preferred offer by the clients 
 
